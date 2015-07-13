@@ -1,0 +1,13 @@
+body {
+  min-height: 2000px;
+  padding-top: 70px;
+}
+
+.contact-icon {
+  font-size: 16pt;
+  color: #00FF99;
+}
+
+.nav {
+  font-weight: bold;
+}
