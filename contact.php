@@ -7,7 +7,6 @@
 
 </head>
 
-
 <body>
 
 <?php
@@ -24,16 +23,15 @@
           <address>
             <strong>Strawberry Systems</strong><br><br>
 
-<!--
+
             <span class="glyphicon glyphicon-map-marker contact-icon" aria-hidden="true"></span><br>
-	    12596 W. Bayaud Avenue<br>
-	    Suite 200<br>
-	    Lakewood, CO 80228<br>
+	    58 Silver Saddle Ln<br>
+	    Rolling Hills Estates, CA 90274<br>
             United States of America<br><br>
--->
+
 
             <span class="glyphicon glyphicon-earphone contact-icon" aria-hidden="true"></span><br>
-            <a href="tel:+13038727307">+1 (303) 872-7307</a><br><br>
+            <a href="tel:+15303242888">+1 (530) 324-2888</a><br><br>
 
             <span class="glyphicon glyphicon-envelope contact-icon" aria-hidden="true"></span><br>
             General Information: <a href="mailto:info@strawberrysys.com">info@strawberrysys.com</a><br>
